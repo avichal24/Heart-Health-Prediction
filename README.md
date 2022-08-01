@@ -4,6 +4,7 @@
 This project uses the Machine Learning algorithm
 to predict whether you have a healthy heart or you need to pay
 attention towards it.
+
 ##  About The Dataset
 
 The dataset comprises of the different values under 
@@ -20,6 +21,7 @@ heart health.
 In this, it acutally shows the people who have the same values of 
 measurement and had suffered from a cronic heart diease, whose treatment
 process had started late due to improper prediction from doctors end.
+
 ## Project Details
 
 The dataset comprises of the previous patients 
@@ -33,6 +35,8 @@ accuracy of our model.
 
 So, we have applied the Logistic Regression model
 in our dataset to predict the best possible result.
+
+![Logistic](https://user-images.githubusercontent.com/109500969/182081520-0b2b9b21-0529-4e9d-8cf7-a569b17eb0b4.jpg)
 
 Finally, to test our model we have entered the input as self
 where we analysed both the case scenariaos of two persons,
@@ -103,10 +107,7 @@ if(input_pred == 0):
 else:
  print('Attention: You need a detailed checkup')
 
-# Conclusion:
-## This model has predicted 100% correct prediction for our two patients, and this can be great a helping hand for medical Industry to predict the heart health and start the precautionary treatment on or before.
 ```
-
 
 ## Conclusion
 
@@ -115,10 +116,12 @@ therefore it can be great helping hand for the medical staff
 to predict if the patient at their door is healthy from heart or 
 not, and would surely help the person to get a proper treatment for the 
 diagnosis he had gone through our model.
+
 # Hi, I'm Avichal Srivastava ! 👋
 
 You can reach out to me at: srivastavaavichal007@gmail.com LinkedIn: www.linkedin.com/in/avichal-srivastava-186865187
 
 ## 🚀 About Me
+
 I'm a Mechanical Engineer by education, and love to work with data, I eventually started my coding journey for one of my Drone project, wherein I realized that it is something which makes me feel happy in doing, then I planed ahead to move in the Buiness Analyst or Data Analyst domain. The reason for choosing these domains is because I love maths a lot and all the Machine Learning algorithms are completely based on mathematical intution, So this was about me Hope! You liked it, and it is just a beginning, many more to come, till then Happy Analysing!!
 
