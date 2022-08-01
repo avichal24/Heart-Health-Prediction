@@ -128,5 +128,7 @@ LinkedIn: www.linkedin.com/in/avichal-srivastava-186865187
 
 ## 🚀 About Me
 
-I'm a Mechanical Engineer by education, and love to work with data, I eventually started my coding journey for one of my Drone project, wherein I realized that it is something which makes me feel happy in doing, then I planed ahead to move in the Buiness Analyst or Data Analyst domain. The reason for choosing these domains is because I love maths a lot and all the Machine Learning algorithms are completely based on mathematical intution, So this was about me Hope! You liked it, and it is just a beginning, many more to come, till then Happy Analysing!!
+I'm a Mechanical Engineer by education, and love to work with data, I eventually started my coding journey for one of my Drone project, wherein I realized that it is something which makes me feel happy in doing, then I planed ahead to move in the Buiness Analyst or Data Analyst domain. The reason for choosing these domains is because I love maths a lot and all the Machine Learning algorithms are completely based on mathematical intution, So this was about me.
+
+Hope! You liked it, and its just a beginning, many more to come, till then Happy Analysing!!
 
